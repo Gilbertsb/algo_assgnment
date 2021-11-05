@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[47]:
-
 
 def sort_pairs_socks(array, number_of_element):
     pairs = 0
@@ -26,16 +21,4 @@ if __name__ == "__main__":
             
     print(sort_pairs_socks(arr1, number1)) #Calling the count pairs function
     print(sort_pairs_socks(arr2, number2)) 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
